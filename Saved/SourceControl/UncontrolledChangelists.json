@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/SaveLevel/scene01.umap",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/VRTemplate/VFX/NS_Pointer.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/SelectActors/BP_Select_Actors_Interface.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/SelectActors/BP_Select_My_Actor.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/SelectActors/MyCube.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/StarterContent/Materials/M_Ground_Gravel.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/UI/BP_Widget_Selecao_Opcao.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/SelectActors/BP_UI_Actor.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/VRTemplate/Blueprints/WidgetMenu.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/VRTemplate/Blueprints/Menu.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/SelectActors/Select_Decal_MAT_Correto.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/Select_Decal_MAT_Erro.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/VRTemplate/Blueprints/BP_Widget_Comunicacao.uasset",
+				"D:/ProjetoUE/ProjetoTCC5_1/Content/SelectActors/Select_Decal_MAT.uasset"
+			]
+		}
+	]
+}
